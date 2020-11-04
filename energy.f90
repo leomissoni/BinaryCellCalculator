@@ -4,7 +4,6 @@ use globals
 
 implicit none
 integer i, j, k, ii, counter
-real*8 totalE, selfE, otherE
 real*8 distance
 real*8 dist
 real*8 potentialAA, potentialAB, potentialBB

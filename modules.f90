@@ -9,6 +9,7 @@ real*8, allocatable :: brealpositions(:,:)
 real*8, allocatable :: atrasl(:,:)
 real*8, allocatable :: btrasl(:,:)
 real*8 lattice(3,3)
+real*8 selfE, otherE, totalE
 
 endmodule globals
 
